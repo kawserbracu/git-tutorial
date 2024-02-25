@@ -1,0 +1,1 @@
+print("ssh parlam na keno jani na")
