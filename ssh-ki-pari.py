@@ -1,0 +1,1 @@
+print("ssh parlam ki na dekhi")
